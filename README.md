@@ -1,11 +1,12 @@
-# Description Classification and Detection of Roasted Coffee Beans with Convolutional Neural Networks (CNN)
+# Description
+## Classification and Detection of Roasted Coffee Beans with Convolutional Neural Networks (CNN)
 
-## Overview
+### Overview
 
 This project focuses on the classification and detection of roasted coffee beans using computer vision and machine learning techniques.
 The goal is to develop a robust system that can accurately identify and classify different types of roasted coffee beans based on their visual characteristics.
 
-## Features
+### Features
 
 + **Image Classification**: Implement a CNN-based model for the classification of roasted coffee beans into distinct categories, including bean type, roast level, and origin.
 
@@ -15,7 +16,7 @@ The goal is to develop a robust system that can accurately identify and classify
 
 + **Model Evaluation**: Implement metrics and tools for evaluating the performance of the classification and detection models.
 
-## Technologies Used
+### Technologies Used
 
 + **TensorFlow / PyTorch**: Employ popular deep learning frameworks for CNN model development and training.
 
@@ -23,7 +24,7 @@ The goal is to develop a robust system that can accurately identify and classify
 
 + **Python**: Use Python as the primary programming language for implementation.
 
-## Usage
+### Usage
 1. Clone the repository:
    git clone https://github.com/leonzss/Classification-and-Detection-of-Roasted-Coffee-Beans.git
 
