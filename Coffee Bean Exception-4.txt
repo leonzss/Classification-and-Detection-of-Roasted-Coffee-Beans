@@ -1,0 +1,1 @@
+{0: 'Dark', 1: 'Light', 2: 'Medium', 3: 'Unknown'}
