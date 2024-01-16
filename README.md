@@ -34,4 +34,4 @@ The goal is to develop a robust system that can accurately identify and classify
 3. Prepare and augment the dataset using provided scripts or your custom datasets.
 
 4. Run:
-   Flask rin Or Python app.py
+   Flask run Or Python app.py
